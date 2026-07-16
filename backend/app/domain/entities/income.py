@@ -4,6 +4,7 @@ from datetime import UTC, datetime
 from decimal import Decimal
 from uuid import UUID
 
+
 from backend.app.domain.enums.income_type import IncomeType
 
 
